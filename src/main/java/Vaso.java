@@ -1,5 +1,11 @@
 /**
- * @author Rodrigo
+ * La clase `Vaso` representa un vaso que puede ser llenado y vaciado por diferentes hilos.
+ * También lleva un registro del número de veces que ha sido llenado.
+ *
+ * La clase incluye métodos para consultar y modificar el estado del vaso,
+ * así como un método para introducir un retardo en la ejecución.
+ *
+ * @author Chema y Rodrigo
  * @date 11 febrero, 2025
  */
 public class Vaso {
